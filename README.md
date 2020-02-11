@@ -1,6 +1,7 @@
 # HTML Bootstrap
 
-Base pour la création d'une page web via Bootstrap
+Base pour la création d'une page web via Bootstrap  
+https://getbootstrap.com/docs/4.4/components/  
 
 ## Layout
 
@@ -35,8 +36,6 @@ Base pour la création d'une page web via Bootstrap
 ```
 ## Templates
 
-[mobapp](https://colorlib.com/demo?theme=MobApp)
-
-[ca-app](https://colorlib.com/demo?theme=ca-app)
-
-[Bootstrap made](https://bootstrapmade.com/bootstrap-one-page-templates/)
+[mobapp](https://colorlib.com/demo?theme=MobApp)  
+[ca-app](https://colorlib.com/demo?theme=ca-app)  
+[Bootstrap made](https://bootstrapmade.com/bootstrap-one-page-templates/)  
